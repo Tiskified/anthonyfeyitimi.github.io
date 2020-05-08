@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+Welcome to my blog. We will tackle together topics in Finance, ranging from personal and corporate finance to examining the underbelly of economies and nations. We will discover also how the global financial system works and spend sometime trying to understand the impact of government decision and pronouncements on the global economy.
 
 You can use the [editor on GitHub](https://github.com/Tiskified/anthonyfeyitimi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
